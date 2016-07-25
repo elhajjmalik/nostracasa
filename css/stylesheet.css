@@ -1,0 +1,85 @@
+.nav {
+    font-family: 'Quicksand', sans-serif;
+    border-top:1px solid #2a2a2a;
+    border-bottom:1px solid #2a2a2a;
+    padding:5px;
+    margin:15px;
+}
+
+.container {
+    width:960px;
+    margin:auto;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.description {
+    width:930px;
+    height:375px;
+    background-color:#68040a;
+    color:#e8e5e2;
+    padding:15px;
+}
+
+.pizza {
+    width:930px;
+    height:550px;
+    background-color:#68040a;
+    color:#e8e5e2;
+    padding:15px;
+}
+
+.pasta {
+    width:930px;
+    height:600px;
+    background-color:#68040a;
+    color:#e8e5e2;
+    padding:15px;
+}
+
+.footer {
+    border-top:1px solid #2a2a2a;
+    border-bottom:1px solid #2a2a2a;
+    padding:15px;
+    margin:15px;
+}
+
+.contact {
+    font-size:25px;
+}
+
+a {
+    text-decoration:none;
+}
+
+a:link, a:visited {
+    color:#2a2a2a;
+    text-decoration: none; 
+}
+
+li {
+    list-style:none;
+    display:inline-block;
+    margin:15px;
+    color:#2a2a2a;
+}
+div {
+    font-family: 'Quicksand', sans-serif;
+    text-align:center;
+}
+
+h1 {
+    font-family: 'Satisfy', cursive;
+    font-size: 55px;
+    background-color:#68040a;
+    color:#e8e5e2;
+}
+
+p {
+    font-family: 'Quicksand', sans-serif;
+}
+
+/*delete images that were not used*/
+/*create a color scheme*/
+/*learn how to make a logo*/
+/*always check spelling*/
+/*find better photos of pizza*/
